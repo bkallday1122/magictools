@@ -211,12 +211,12 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Astera](https://github.com/tek256/astera) - 2D C99 Cross Platform Game Library / Framework
 - :tada: [axys](https://github.com/axys1/axys) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
 - :tada: [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
-- :tada: [Babylon.js](https://www.babylonjs.com/) - Javascript 3D Library.
+- :tada: [Babylon.js](https://www.babylonjs.com/) - JavaScript 3D Library.
 - :tada: [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
 - :tada: [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - :tada: [bitsy](https://ledoux.itch.io/bitsy) - A little editor for little games or worlds. The goal is to make it easy to make games where you can walk around and talk to people and be somewhere.
 - :tada: [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor.
-- :money_with_wings: [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers.
+- :money_with_wings: [Blend4Web](http://www.blend4web.com/) - A JavaScript framework for creating and displaying interactive 3D computer graphics in web browsers.
 - :tada: [Blitz3D](https://github.com/blitz-research/blitz3d) 3D basic-like programming language for fast 3D desktop games.
 - :tada: [boardgame.io](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
 - :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
@@ -243,7 +243,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 - :tada: [engo](https://engoengine.github.io/) - Engo is an open-source 2D game engine written in Go.
 - :tada: [Ebiten](https://ebiten.org/) - A dead simple 2D game library in Go.
-- :tada: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too.
+- :tada: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in TypeScript but you can use on node.js and web browser too.
 - :tada: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 - :tada: [EnTT](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
 - :tada: [FXGL](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux.
@@ -347,7 +347,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 - :tada: [TIC-80](https://tic.computer/) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - :tada: [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE is a small, completely public domain fixed point physically inaccurate pure C header-only 3D physics engine built to run on tiny computers such as embedded and even bare metal.
-- :tada: [Three.js](http://threejs.org/) - Javascript 3D Library.
+- :tada: [Three.js](http://threejs.org/) - JavaScript 3D Library.
 - :tada: [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 - :tada: [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
 - :money_with_wings: [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
